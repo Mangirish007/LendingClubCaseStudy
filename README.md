@@ -6,7 +6,7 @@
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contributors](#Contributors)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -20,7 +20,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- more number of people took loan amount of 10000, and very few people took more than 30000 loan amount.
+- More number of people took loan amount of 10000, and very few people took more than 30000 loan amount.
 - Funded amount and Funded amount investment data behaves similar to loan Amount, Which tells us that Lending club approved most of Applied loan amount.
 - Most of the interest rates lies between 9% to 14.5%. Some people took loan at higher rates of interest i.e., 22.5%
 - Around 90% borrower's are having no public derogatory records.
@@ -44,21 +44,14 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python jupyter notebook
+- git and git hub
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
+## Contributors
+- Mangirish Kavlekar
+- Govindarajan, Srinivasan
 
 
 <!-- Optional -->
