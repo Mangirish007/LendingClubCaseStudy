@@ -3,7 +3,7 @@
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [lenfing case study](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
