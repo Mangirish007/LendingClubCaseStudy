@@ -20,10 +20,25 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- more number of people took loan amount of 10000, and very few people took more than 30000 loan amount.
+- Funded amount and Funded amount investment data behaves similar to loan Amount, Which tells us that Lending club approved most of Applied loan amount.
+- Most of the interest rates lies between 9% to 14.5%. Some people took loan at higher rates of interest i.e., 22.5%
+- Around 90% borrower's are having no public derogatory records.
+- 99% people have not went bankrupt.
+- There are more issues of loan in last 3 months every end of the ear i.e., Oct, Nov and Dec.
+- Barrowrs have taken 36 months tenure more than 60 months.
+- Borrowers are mostly 10+ years emploment length.
+- Majority of loans were given without verification of applicants income.
+- More than 80% of borrowers has paid the loan fully. where are less than 14% are defaulted the loan.
+- Most of the borrowers are from CA and NY
+- For higher interest rates the default rate is higher in both 36 and 60 months tenure.
+- The lower grade people has taken higher amount of loans and also they are more prone to default the loan.
+- Irrespictive of employment length loans with more interest rates got defaulted more.
+- More number of borrowers defaulted in CA  followed by FL and NY states.
+- Small Business has more defaults when the loan amount is also high.
+
+
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
